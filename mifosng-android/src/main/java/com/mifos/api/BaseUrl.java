@@ -11,7 +11,8 @@ package com.mifos.api;
 public class BaseUrl {
 
     public static final String PROTOCOL_HTTPS = "https://";
-    public static final String API_ENDPOINT = "demo.openmf.org";
+//    public static final String API_ENDPOINT = "demo.openmf.org";
+    public static final String API_ENDPOINT = "13.250.99.178";
     public static final String API_PATH = "/fineract-provider/api/v1/";
     public static final String PORT = "80";
     // "/" in the last of the base url always
